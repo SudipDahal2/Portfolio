@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudip Dahal</h1>
 <h3 align="center">An Tech enthusiastic with passion to learn.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipdahal2" alt="sudipdahal2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="/sd_pic.png" alt="sudipdahal2" /></a> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking.**
 
